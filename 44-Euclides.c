@@ -3,6 +3,7 @@
 Ejercicio 44
 Autor Erick Cardenas
 */
+
 int main(int argc, char *argv[]) {
 	//se inicializan las variables a utilizar
 	int numero1, numero2;
@@ -48,3 +49,9 @@ int main(int argc, char *argv[]) {
 	
 	return 0;
 }
+
+/*Q\A: el programa funciona correctamente con el algoritmo
+de euclides, en el caso 1: los datos de entrada fueron
+100 y 125 y el dato de salida fue 25 como MCD y en el
+caso 2: los datos de entrada fueron 996 y 870 y el dato
+de salida fue 6 como MCD. Q\A realizado por Carlos Eduardo Avila Criollo(Equipo 5 "dinamita"*/
